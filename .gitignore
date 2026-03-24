@@ -1,0 +1,6 @@
+node_modules/
+.playwright/
+*.png
+*.pdf
+*.webm
+.DS_Store
